@@ -1,0 +1,49 @@
+Binary-Harmonic Lineage Math License (BHL License)
+
+Summary of Rights and Responsibilities:
+
+Permissive Use: This license allows use, modification, and distribution of the Binary-Harmonic Lineage Math framework for any purpose, whether commercial or non-commercial
+fossa.com
+. There are no field-of-use restrictions – it can be integrated into any project or environment (including critical infrastructure or proprietary/defense systems) without additional permission
+en.wikipedia.org
+.
+
+Attribution Required: You must provide proper credit to the original creator of the BHL Math framework in any distribution or derivative. This includes preserving the copyright notice and license text in source code distributions
+fossa.com
+, and acknowledging the original Binary-Harmonic Lineage Math model (and its creator) in documentation or user interfaces (e.g. an "About" section).
+
+Derivative Works: Any modified or derivative works must retain the core attribution to the original model and author. In practice, this means derivative projects should explicitly mention that they are derived from or include the BHL Math framework, ensuring the origin is clear
+en.wikipedia.org
+. (You are not required to open-source your own derivative works under this license, but you are required to carry forward the attribution clause.)
+
+No Endorsement: You may not use the name of the original author nor the name "Binary-Harmonic Lineage Math" to endorse or promote products derived from this software without specific prior written permission
+en.wikipedia.org
+. The license grants no rights to use the author's identity or project name for marketing purposes, except to acknowledge the software’s origin as required above.
+
+Contributions Encouraged: While not mandatory, you are encouraged to share improvements or fixes you make to the framework with the original author or community. This goodwill clause is not an open-source requirement (i.e. it does not force you to distribute your changes), but it invites collaboration to benefit everyone. (Permissive licenses do not require sharing modifications
+fossa.com
+, so this clause simply encourages voluntary contribution.)
+
+No Warranty & Liability: The software is provided “as is” without any warranty, and the license disclaims all liability. The original creator (and any contributors) will not be held liable for any damages or issues arising from use of the BHL Math framework
+en.wikipedia.org
+. This mirrors the standard warranty disclaimer found in licenses like MIT/Apache and ensures that users assume all risks.
+
+License Terms and Conditions
+Copyright (c) 2025 [Original Author Name]
+
+1. **Grant of Permission.** Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software **worldwide and in perpetuity, without restriction**, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+2. **Attribution and Notice.** The above copyright notice and this License shall be included in all copies or substantial portions of the Software. In addition, any distributed modification or derivative work must include a clear acknowledgment that it is derived from the **Binary-Harmonic Lineage Math** framework originally created by [Original Author Name]. This acknowledgment should be placed in a reasonable location (such as documentation, release notes, or a "NOTICE" file or "About" dialog) so that recipients know of the Software’s origin.
+
+3. **No Endorsement.** Nothing in this License grants permission to use the name of the Licensor (original author) or the name **"Binary-Harmonic Lineage Math"** for endorsement or promotion of products derived from the Software without specific prior written permission. You shall not imply that your derivative works are endorsed by or affiliated with the original author or project without such permission.
+
+4. **Contributions Back (Optional).** You are encouraged (but not required) to share any modifications, improvements, or contributions you make to the Software with the Licensor or the community. Contributing back is entirely voluntary and is not a condition of this License; it is simply encouraged in the spirit of collaborative improvement.
+
+5. **Disclaimer of Warranty and Limitation of Liability.** **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED**, INCLUDING BUT NOT LIMITED TO THE WARRANTIES of **MERCHANTABILITY**, **FITNESS FOR A PARTICULAR PURPOSE**, AND **NONINFRINGEMENT**. **IN NO EVENT SHALL THE AUTHOR OR ANY COPYRIGHT HOLDER OR CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY**, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. **ALL SUCH WARRANTIES ARE DISCLAIMED AND ALL LIABILITY IS LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.**
+
+
+(This license is structured as a permissive open-source license, similar in style to MIT or Apache 2.0. It grants broad rights for use and re-use
+fossa.com
+ while requiring attribution to the original creator. It explicitly allows integration into any system or infrastructure without additional restrictions, and includes standard warranty and liability disclaimers for protection
+en.wikipedia.org
+.)
